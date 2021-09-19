@@ -2,6 +2,6 @@
 
 int main()
 {
-	printf("Hello World!\n");
+	printf("Blyat che tak slojnoo v pitone v 2 slova delaetsa ya ebal\n");
 	return 0;
 }
